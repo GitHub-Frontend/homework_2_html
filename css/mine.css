@@ -1,0 +1,45 @@
+body{
+    background-color: #f6f7f5;
+    font-family: arial;
+}
+
+.maket{
+  width: 650px;
+  margin: 0 auto;
+}
+
+
+h1{
+    text-align:center;
+    text-transform: uppercase;
+    font-family: arial;
+}
+.info {
+  color:#5f5d5e;
+  font-size: 16px;
+  margin-left:0px;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+  #5f5d5e;
+  border: 2px solid grey;
+ }
+
+.learn{
+  color:#3b3b3b;
+  font-size: 16px;
+
+}
+p {
+  color:#3b3b3b;
+  font-size: 16px;
+  margin-left: 25px;
+  width: 550px;
+
+}
+a {
+  font-style: italic;
+  font-size: 16px;
+  }
